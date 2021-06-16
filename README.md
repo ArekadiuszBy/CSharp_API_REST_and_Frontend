@@ -1,9 +1,25 @@
+#API Adding, removing, editing + Frontend.
+#CSS, JS, React, C#, REST, API, CRUD.
+
 ## First you have to open "backend" folder, connect it with your Database (e.g. SSMS), later with "Nuget Console" run command: "update-database" and run the app.
 ## To run Frontend you have to create in Visual Studio new project "ASP.Net Core Web Application" with "React.js". (node modules)
 ## Later copy the files from src (/src/components) to your new project and run the app (but you must have started backend also). 
 
 ### Frontend file should look like:
 ![Alt text](/ss1.png?raw=true "Project outlook")
+
+## Backend after running should open NOT working site (localhost:xxxxx) (xxxxx is also in Frontend files)
+
+## Frontend:
+![Alt text](/ss1.png?raw=true "Project outlook")
+
+![Alt text](/ss2.png?raw=true "Project outlook")
+
+![Alt text](/ss3.png?raw=true "Project outlook")
+
+![Alt text](/ss4.png?raw=true "Project outlook")
+
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
