@@ -1,3 +1,8 @@
+## First you have to open "backend" folder, connect it with your Database (e.g. SSMS), later with "Nuget Console" run command: "update-database" and run the app.
+## To run Frontend you have to create in Visual Studio new project "ASP.Net Core Web Application" with "React.js". (node modules)
+## Later copy the files from src (/src/components) to your new project and run the app (but you must have started backend also). 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
