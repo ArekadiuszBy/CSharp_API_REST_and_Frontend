@@ -11,8 +11,6 @@
 ## Backend after running should open NOT working site (localhost:xxxxx) (xxxxx is also in Frontend files)
 
 ## Frontend:
-![Alt text](/ss1.png?raw=true "Project outlook")
-
 ![Alt text](/ss2.png?raw=true "Project outlook")
 
 ![Alt text](/ss3.png?raw=true "Project outlook")
