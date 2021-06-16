@@ -2,6 +2,9 @@
 ## To run Frontend you have to create in Visual Studio new project "ASP.Net Core Web Application" with "React.js". (node modules)
 ## Later copy the files from src (/src/components) to your new project and run the app (but you must have started backend also). 
 
+### Frontend file should look like:
+![Alt text](/ss1.png?raw=true "Project outlook")
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
