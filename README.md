@@ -1,5 +1,5 @@
-#API Adding, removing, editing + Frontend.
-#CSS, JS, React, C#, REST, API, CRUD.
+# API Adding, removing, editing + Frontend.
+# CSS, JS, React, C#, REST, API, CRUD.
 
 ## First you have to open "backend" folder, connect it with your Database (e.g. SSMS), later with "Nuget Console" run command: "update-database" and run the app.
 ## To run Frontend you have to create in Visual Studio new project "ASP.Net Core Web Application" with "React.js". (node modules)
